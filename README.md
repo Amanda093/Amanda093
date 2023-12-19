@@ -4,11 +4,6 @@
   <b>Atualmente estudando Desenvolvimento de Sistemas na Etec/Fatec Zona Leste.</b>
   
   <br>
-  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Amanda093&show_icons=true&count_private=true&hide_border=true&title_color=D22D4B&icon_color=D22D4B&text_color=F2E9EA&bg_color=0d1117" alt="Amanda github stats"> 
-  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda093&layout=compact&hide_border=true&title_color=D22D4B&text_color=F2E9EAB&bg_color=0d1117">
-
-  <br>
 
   ## Habilidades
   <b>Linguagens</b>
@@ -27,13 +22,17 @@
   <br>
 
   <b>Design</b>
-
+  
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
   ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-
+  
   <br>
 
   <b>Outros</b>
   
   ![VS](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Amanda093&show_icons=true&count_private=true&hide_border=true&title_color=D22D4B&icon_color=D22D4B&text_color=F2E9EA&bg_color=0d1117" alt="Amanda github stats"> 
+  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda093&layout=compact&hide_border=true&title_color=D22D4B&text_color=F2E9EAB&bg_color=0d1117">
 </div>
