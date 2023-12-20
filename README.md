@@ -34,5 +34,5 @@
   ![VS](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Amanda093&show_icons=true&count_private=true&hide_border=true&title_color=D22D4B&icon_color=D22D4B&text_color=F2E9EA&bg_color=0d1117" alt="Amanda github stats"> 
-  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda093&layout=compact&hide_border=true&title_color=D22D4B&text_color=F2E9EAB&bg_color=0d1117">
+  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda093&layout=compact&count_private=true&hide_border=true&title_color=D22D4B&text_color=F2E9EAB&bg_color=0d1117">
 </div>
