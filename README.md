@@ -1,7 +1,7 @@
 <div align="center">  
   <h1> 👋  Olá, meu nome é Amanda!</h1>
 
-  <b>Atualmente estudando Desenvolvimento de Sistemas na Etec/Fatec Zona Leste.</b>
+  <b>Estudando Desenvolvimento de Sistemas na Etec Zona Leste<b>
   
   <br>
 
