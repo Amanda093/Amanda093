@@ -4,7 +4,7 @@
 
 ### Atualmente estudando Desenvolvimento de Sistemas na Etec/Fatec Zona Leste
 
-🐕 Desenvolvendo um site com empresa parceira IBM **[Inclusipet](https://github.com=Amanda093/Inclusipet-Ibm)**
+🐕 Desenvolvendo um site com empresa parceira IBM **[Inclusipet]([https://github.com=Amanda093/Inclusipet-Ibm](https://github.com/Chrb09/Inclusipet-Ibm))**
 
 📚 Recentemente estudando **Node.js, React, Python, PHP, MySQL, Kotlin**
 
