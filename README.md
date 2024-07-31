@@ -30,6 +30,7 @@
 ![NODE.JS](https://img.shields.io/badge/Node.js-F28241?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-897ABF?style=for-the-badge&logo=php&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-897ABF?style=for-the-badge&logo=mysql&logoColor=white)
+![FIREBASE](https://img.shields.io/badge/firebase-897ABF?style=for-the-badge&logo=firebase&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-F28241?style=for-the-badge&logo=java&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-897ABF?style=for-the-badge&logo=python&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/Kotlin-897ABF?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -38,6 +39,7 @@
 ![GIT](https://img.shields.io/badge/Git-F28241?style=for-the-badge&logo=git&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/figma-F28241.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-F28241?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![KRITA](https://img.shields.io/badge/Krita-F28241?style=for-the-badge&logo=krita&logoColor=white)
 ![VS](https://img.shields.io/badge/VSCode-F28241?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
   <br>
