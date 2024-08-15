@@ -33,6 +33,7 @@
 ![FIREBASE](https://img.shields.io/badge/firebase-897ABF?style=for-the-badge&logo=firebase&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-F28241?style=for-the-badge&logo=java&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-897ABF?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-897ABF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/Kotlin-897ABF?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-897ABF?style=for-the-badge&logo=react&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-897ABF?style=for-the-badge&logo=bootstrap&logoColor=white)
