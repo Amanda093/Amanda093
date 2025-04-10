@@ -4,9 +4,9 @@
 
 ### Atualmente estudando Desenvolvimento de Sistemas na Etec/Fatec Zona Leste
 
-🐕 Desenvolvendo um site com empresa parceira IBM **[Inclusipet](https://github.com/Chrb09/Inclusipet-Ibm)**
+🐕 Desenvolvi um site com empresa parceira IBM **[Inclusipet](https://github.com/Chrb09/Inclusipet-Ibm)**
 
-📚 Recentemente estudando **Node.js, React, Python, PHP, MySQL, Kotlin**
+📚 Recentemente estudando **Node.js, React, Python, Kotlin**
 
 🤓 Experiente com **HTML, CSS, FIGMA**
 
