@@ -8,7 +8,7 @@
 
 📚 Recentemente estudando **Node.js, React, Python, Kotlin**
 
-🤓 Experiente com **HTML, CSS, FIGMA**
+🤓 Experiente com **HTML, CSS, FIGMA e Photoshop**
 
 📫 Informações de contato 
 <br>
